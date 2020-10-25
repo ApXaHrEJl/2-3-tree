@@ -1,0 +1,9 @@
+language: c
+
+compiler: gcc
+
+dist: xenial
+
+script: 
+  - make
+  - .bin/ex
