@@ -6,4 +6,4 @@ dist: xenial
 
 script: 
   - make
-  - .bin/ex
+  - ./bin/ex
